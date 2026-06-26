@@ -1,0 +1,39 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# Roslyn
+*.ruleset
+
+# User-specific files
+*.DotSettings.user
+
+# Miscellaneous
+*.orig
+*.VC.db
+*.psess
+*.vsp
+*.vspx
+*.log
+
+# Packages
+[Pp]ackages/
+*.nupkg
+
+# Secrets
+secrets.json
